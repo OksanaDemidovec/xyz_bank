@@ -1,0 +1,56 @@
+{
+  "usernames": {
+    "username1": "Albus Dumbledore",
+    "username2": "Harry Potter",
+    "username3": "Hermoine Granger",
+    "username4": "Rubeus Hagrid",
+    "username5": "Ron Weasly"
+  },
+  "url": {
+    "login": "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login",
+    "manager": "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/manager",
+    "addcustomer": "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/manager/addCust",
+    "customer": "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/customer",
+    "account": "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/account",
+    "transactions": "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/listTx",
+    "sorting_transactions": "https://www.globalsqa.com/angularJs-protractor/BankingProject/#",
+    "pagination_transactions": "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/listTx#anchor5",
+    "top_transactions": "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/listTx#anchor",
+    "open_account": "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/manager/openAccount",
+    "customers_tab": "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/manager/list"
+  },
+  "currency": {
+    "currency1": "Dollar",
+    "currency2": "Pound",
+    "currency3": "Rupee"
+  },
+  "info_about_customers": {
+    "Albus Dumbledore": {
+      "FirstName": "Albus",
+      "LastName": "Dumbledore",
+      "PostCode": "E55656",
+      "AccountNumber": "1010 1011 1012"
+    },
+    "Harry Potter": {
+      "FirstName": "Harry",
+      "LastName": "Potter",
+      "PostCode": "E725JB",
+      "AccountNumber": "1004"
+     },
+    "Rubeus Hagrid": {
+      "FirstName": "Rubeus",
+      "LastName": "Hagrid",
+      "PostCode": "nnnn",
+      "AccountNumber": "00000000"
+    }
+  },
+  "deposit": {
+    "null": "",
+    "zero": "0"
+  },
+  "withdrawl": {
+    "less_than_0": "-5",
+    "null": "",
+    "zero": "0"
+  }
+}
